@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Car Showcasing Website: 
+Live Preview: https://wheels-on-go-khb2.vercel.app/
+![image](https://github.com/tanbiralam/WheelsOnGO/assets/57638199/494c1534-1e5d-4c4a-9394-607adc563ab0)
 
 ## Getting Started
 
